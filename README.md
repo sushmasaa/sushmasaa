@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development and building projects to strengthen my frontend and backend skills. Passionate about creating modern, user-friendly web applications.
 - 👯 I’m looking to collaborate on open source projects where i can learn and apply full stack development, improving my coding skills and collabroate with other developers.
 - 💬 Ask me about Web Development, Coding best practices, building full stack apps and learning new technologies.
-- 📫 How to reach me: ysushmareddy13@gmail.com
+- 📫 How to reach me: ysushmareddy13@gmail.com Sushma Y
 
 ## 🛠️ Skills & Tools
 
