@@ -1,21 +1,19 @@
 # Hi there 👋, I’m **Sushma**
 
 ## About Me
-- 🔭 I’m currently working on **[Project/Topic you’re working on]**
-- 🌱 I’m currently learning **[Technologies / Topics]**
-- 👯 I’m looking to collaborate on **[Type of projects you want to contribute to]**
-- 💬 Ask me about **[Technologies / domains you are familiar with]**
-- 📫 How to reach me: **[Your email / LinkedIn / Twitter]**
-- ⚡ Fun fact: **[Something fun about you]**
+- 🌱 I’m currently learning Full Stack Development and building projects to strengthen my frontend and backend skills. Passionate about creating modern, user-friendly web applications.
+- 👯 I’m looking to collaborate on open source projects where i can learn and apply full stack development, improving my coding skills and collabroate with other developers.
+- 💬 Ask me about Web Development, Coding best practices, building full stack apps and learning new technologies.
+- 📫 How to reach me: ysushmareddy13@gmail.com
 
 ## 🛠️ Skills & Tools
 
 | Category | Tools / Languages |
 |---|---|
-| Programming Languages | Python, JavaScript, Go, … |
-| Frameworks / Libraries | React, Node.js, Django, … |
-| Tools & Platforms | Docker, Git, AWS, … |
-| Databases | PostgreSQL, MongoDB, SQLite, … |
+| Programming Languages | Python, JavaScript, HTML, CSS, Java |
+| Frameworks / Libraries | React, Node.js, Spring Boot |
+| Tools & Platforms | Git, VS Code |
+| Databases | MongoDB, SQL |
 
 ## 📂 Projects
 
